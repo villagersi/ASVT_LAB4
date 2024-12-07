@@ -1,0 +1,34 @@
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Pi\obj\Debug\net8.0\MpiNet.Pi.csproj.AssemblyReference.cache
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Pi\obj\Debug\net8.0\MpiNet.Pi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Pi\obj\Debug\net8.0\MpiNet.Pi.AssemblyInfoInputs.cache
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Pi\obj\Debug\net8.0\MpiNet.Pi.AssemblyInfo.cs
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Pi\obj\Debug\net8.0\MpiNet.Pi.csproj.CoreCompileInputs.cache
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Pi\bin\Debug\net8.0\MpiNet.Pi.exe
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Pi\bin\Debug\net8.0\MpiNet.Pi.deps.json
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Pi\bin\Debug\net8.0\MpiNet.Pi.runtimeconfig.json
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Pi\bin\Debug\net8.0\MpiNet.Pi.dll
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Pi\bin\Debug\net8.0\MpiNet.Pi.pdb
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Pi\bin\Debug\net8.0\MPI.dll
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Pi\obj\Debug\net8.0\MpiNet.Pi.csproj.Up2Date
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Pi\obj\Debug\net8.0\MpiNet.Pi.dll
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Pi\obj\Debug\net8.0\refint\MpiNet.Pi.dll
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Pi\obj\Debug\net8.0\MpiNet.Pi.pdb
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Pi\obj\Debug\net8.0\MpiNet.Pi.genruntimeconfig.cache
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Pi\obj\Debug\net8.0\ref\MpiNet.Pi.dll
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Pi\bin\Debug\net8.0\MpiNet.Pi.exe
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Pi\bin\Debug\net8.0\MpiNet.Pi.deps.json
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Pi\bin\Debug\net8.0\MpiNet.Pi.runtimeconfig.json
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Pi\bin\Debug\net8.0\MpiNet.Pi.dll
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Pi\bin\Debug\net8.0\MpiNet.Pi.pdb
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Pi\bin\Debug\net8.0\MPI.dll
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Pi\obj\Debug\net8.0\MpiNet.Pi.csproj.AssemblyReference.cache
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Pi\obj\Debug\net8.0\MpiNet.Pi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Pi\obj\Debug\net8.0\MpiNet.Pi.AssemblyInfoInputs.cache
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Pi\obj\Debug\net8.0\MpiNet.Pi.AssemblyInfo.cs
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Pi\obj\Debug\net8.0\MpiNet.Pi.csproj.CoreCompileInputs.cache
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Pi\obj\Debug\net8.0\MpiNet.Pi.csproj.Up2Date
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Pi\obj\Debug\net8.0\MpiNet.Pi.dll
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Pi\obj\Debug\net8.0\refint\MpiNet.Pi.dll
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Pi\obj\Debug\net8.0\MpiNet.Pi.pdb
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Pi\obj\Debug\net8.0\MpiNet.Pi.genruntimeconfig.cache
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Pi\obj\Debug\net8.0\ref\MpiNet.Pi.dll

@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2232555-3490-4C6F-A497-F80F557F10D0}|cs\\MpiNet.Pi\\MpiNet.Pi.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\src\\cs\\mpinet.pi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2232555-3490-4C6F-A497-F80F557F10D0}|cs\\MpiNet.Pi\\MpiNet.Pi.csproj|solutionrelative:cs\\mpinet.pi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABEE665-BDAC-489C-A874-A5C37166352A}|cs\\MpiNet.Detect\\MpiNet.Detect.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\src\\cs\\mpinet.detect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABEE665-BDAC-489C-A874-A5C37166352A}|cs\\MpiNet.Detect\\MpiNet.Detect.csproj|solutionrelative:cs\\mpinet.detect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\src\\cs\\MpiNet.Detect\\Program.cs",
+              "RelativeDocumentMoniker": "cs\\MpiNet.Detect\\Program.cs",
+              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\src\\cs\\MpiNet.Detect\\Program.cs",
+              "RelativeToolTip": "cs\\MpiNet.Detect\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:07:42.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\src\\cs\\MpiNet.Pi\\Program.cs",
+              "RelativeDocumentMoniker": "cs\\MpiNet.Pi\\Program.cs",
+              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\src\\cs\\MpiNet.Pi\\Program.cs*",
+              "RelativeToolTip": "cs\\MpiNet.Pi\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:07:30.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

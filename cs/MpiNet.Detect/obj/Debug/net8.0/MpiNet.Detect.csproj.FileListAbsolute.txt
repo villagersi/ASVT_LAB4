@@ -1,0 +1,34 @@
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Detect\bin\Debug\net8.0\MpiNet.Detect.exe
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Detect\bin\Debug\net8.0\MpiNet.Detect.deps.json
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Detect\bin\Debug\net8.0\MpiNet.Detect.runtimeconfig.json
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Detect\bin\Debug\net8.0\MpiNet.Detect.dll
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Detect\bin\Debug\net8.0\MpiNet.Detect.pdb
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Detect\bin\Debug\net8.0\MPI.dll
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Detect\obj\Debug\net8.0\MpiNet.Detect.csproj.AssemblyReference.cache
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Detect\obj\Debug\net8.0\MpiNet.Detect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Detect\obj\Debug\net8.0\MpiNet.Detect.AssemblyInfoInputs.cache
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Detect\obj\Debug\net8.0\MpiNet.Detect.AssemblyInfo.cs
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Detect\obj\Debug\net8.0\MpiNet.Detect.csproj.CoreCompileInputs.cache
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Detect\obj\Debug\net8.0\MpiNet.D.36CEF7F8.Up2Date
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Detect\obj\Debug\net8.0\MpiNet.Detect.dll
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Detect\obj\Debug\net8.0\refint\MpiNet.Detect.dll
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Detect\obj\Debug\net8.0\MpiNet.Detect.pdb
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Detect\obj\Debug\net8.0\MpiNet.Detect.genruntimeconfig.cache
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Detect\obj\Debug\net8.0\ref\MpiNet.Detect.dll
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Detect\bin\Debug\net8.0\MpiNet.Detect.exe
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Detect\bin\Debug\net8.0\MpiNet.Detect.deps.json
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Detect\bin\Debug\net8.0\MpiNet.Detect.runtimeconfig.json
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Detect\bin\Debug\net8.0\MpiNet.Detect.dll
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Detect\bin\Debug\net8.0\MpiNet.Detect.pdb
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Detect\bin\Debug\net8.0\MPI.dll
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Detect\obj\Debug\net8.0\MpiNet.Detect.csproj.AssemblyReference.cache
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Detect\obj\Debug\net8.0\MpiNet.Detect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Detect\obj\Debug\net8.0\MpiNet.Detect.AssemblyInfoInputs.cache
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Detect\obj\Debug\net8.0\MpiNet.Detect.AssemblyInfo.cs
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Detect\obj\Debug\net8.0\MpiNet.Detect.csproj.CoreCompileInputs.cache
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Detect\obj\Debug\net8.0\MpiNet.D.36CEF7F8.Up2Date
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Detect\obj\Debug\net8.0\MpiNet.Detect.dll
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Detect\obj\Debug\net8.0\refint\MpiNet.Detect.dll
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Detect\obj\Debug\net8.0\MpiNet.Detect.pdb
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Detect\obj\Debug\net8.0\MpiNet.Detect.genruntimeconfig.cache
+C:\Users\sopar\OneDrive\Рабочий стол\src\cs\MpiNet.Detect\obj\Debug\net8.0\ref\MpiNet.Detect.dll

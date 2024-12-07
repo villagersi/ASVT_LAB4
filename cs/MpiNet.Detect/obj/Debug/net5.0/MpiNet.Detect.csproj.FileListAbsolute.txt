@@ -1,0 +1,5 @@
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Detect\obj\Debug\net5.0\MpiNet.Detect.csproj.AssemblyReference.cache
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Detect\obj\Debug\net5.0\MpiNet.Detect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Detect\obj\Debug\net5.0\MpiNet.Detect.AssemblyInfoInputs.cache
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Detect\obj\Debug\net5.0\MpiNet.Detect.AssemblyInfo.cs
+C:\Users\entityfx\Desktop\mpi. lab 4\mpi\cs\MpiNet.Detect\obj\Debug\net5.0\MpiNet.Detect.csproj.CoreCompileInputs.cache
