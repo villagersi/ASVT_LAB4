@@ -1,72 +1,134 @@
-﻿##
+Этот проект реализует параллельное умножение матриц с использованием библиотеки MPI (Message Passing Interface) в языке C#. Программа распределяет задачи между несколькими процессами, что позволяет эффективно использовать ресурсы многопроцессорных систем.
+Описание программы
+Основные компоненты
 
-Учебники:
+    Импорт библиотек:
 
-https://mpitutorial.com/tutorials/mpi-send-and-receive/
+    csharp
+    using MPI;
+    using System.Diagnostics;
 
-## Установка на Linux
+Здесь мы подключаем необходимые пространства имен, включая MPI для работы с параллельными вычислениями и System.Diagnostics для измерения времени выполнения.
+Главный класс и метод:
 
-Установить пакет `openmpi`
+csharp
+class Program
+{
+    static void Main(string[] args)
+    {
+        ...
+    }
+}
 
-Компилятор и заголовочные файлы в пути:
+    Основной класс Program содержит метод Main, который запускает программу.
 
-* `/usr/lib64/openmpi/include`
-* `/usr/lib64/openmpi/bin`
+Инициализация MPI
 
-### Компиляция на Linux:
+csharp
+MPI.Environment.Run(ref args, communicator =>
+{
+    int rank = communicator.Rank;
+    int size = communicator.Size;
+    ...
+});
 
-```sh
-mpicc <source.c> -o <source_bin>
-```
+    MPI.Environment.Run инициализирует среду MPI и предоставляет объект communicator, который используется для обмена сообщениями между процессами.
+    rank — это уникальный идентификатор процесса (от 0 до size-1).
+    size — общее количество процессов.
 
-Запуск:
+Определение размеров матриц
 
-```sh
-mpiexec -n X ./source_bin
-```
+csharp
+int rowsA = 100; // Количество строк в первой матрице
+int colsA = 100; // Количество столбцов в первой матрице (и строк во второй)
+int colsB = 100; // Количество столбцов во второй матрице
 
-## Примеры алгоритмов
+Здесь задаются размеры двух матриц: A (размером 100x100) и B (размером 100x100).
+Заполнение матриц
+Процесс 0 (главный процесс)
 
-Вычисление PI: https://github.com/kiwenlau/MPI_PI
-Алгоритм Монте-Карло: https://habr.com/ru/articles/128454/
+csharp
+if (rank == 0)
+{
+    sw.Start();
+    int countA = 10;
+    int countB = 1;
+    ...
+}
 
+    Главный процесс заполняет матрицы A и B значениями, начиная с 10 и 1 соответственно.
+    Затем он отправляет данные другим процессам.
 
-## Установка на Windows
+Другие процессы
 
-Установка SDK: https://learn.microsoft.com/en-us/message-passing-interface/microsoft-mpi
+csharp
+else
+{
+    for (int i = 0; i < rowsA; i++)
+    {
+        ...
+    }
+}
 
-Скачать тут: 
-https://github.com/microsoft/Microsoft-MPI/releases/tag/v10.1.1
-https://www.microsoft.com/en-us/download/details.aspx?id=105289
+    Все остальные процессы получают данные из матриц A и B, отправленные главным процессом.
 
+Распределение задач
 
-Документация: https://github.com/microsoft/Microsoft-MPI/blob/master/examples/helloworld/Run_MPIHelloWorld.md
+csharp
+int rowsPerProcess = rowsA / size;
+int startRow = rank * rowsPerProcess;
+int endRow = (rank + 1) * rowsPerProcess;
 
-https://learn.microsoft.com/ru-ru/archive/blogs/windowshpc/how-to-compile-and-run-a-simple-ms-mpi-program
+    Каждому процессу назначается своя часть строк для умножения, что позволяет параллельно вычислять результаты.
 
-Проверка переменных окружения:
+Умножение матриц
 
-```cmd
-set MSMPI
-MSMPI_BENCHMARKS=C:\Program Files\Microsoft MPI\Benchmarks\
-MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\
-MSMPI_INC=C:\Program Files (x86)\Microsoft SDKs\MPI\Include\
-MSMPI_LIB32=C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x86\
-MSMPI_LIB64=C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x64\
-```
+csharp
+for (int i = startRow; i < endRow; i++)
+{
+    for (int j = 0; j < colsB; j++)
+    {
+        matrixC[i * colsB + j] = 0;
+        for (int k = 0; k < colsA; k++)
+        {
+            matrixC[i * colsB + j] += matrixA[i * colsA + k] * matrixB[k * colsB + j];
+        }
+    }
+}
 
-### Компиляция на Windows:
+Каждый процесс выполняет умножение своей части матрицы A на матрицу B, сохраняя результаты в матрице C.
+Сбор результатов
+Процесс 0
 
-Запуск консоли Visual Studio Developer Tools
+csharp
+if (rank == 0)
+{
+    for (int i = 1; i < size; i++)
+    {
+        ...
+    }
+}
 
-Компиляция C исходников:
-cl /I "C:\Program Files (x86)\Microsoft SDKs\MPI\Include" /c <source.c>
+Главный процесс собирает результаты от всех других процессов.
+Другие процессы
 
-Линкер:
-link /machine:x86 /out:mpi_detect.exe "msmpi.lib" /libpath:"C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x86" mpi_detect.obj
+csharp
+else
+{
+    for (int i = startRow; i < endRow; i++)
+    {
+        ...
+    }
+}
 
-Запуск:
+Другие процессы отправляют свои результаты главному процессу.
+Вывод результата
 
-```cmd
-mpiexec -n X ./source_bin.exe
-```
+csharp
+if (rank == 0)
+{
+    Console.WriteLine("Результирующая матрица:");
+    ...
+}
+
+В конце главный процесс выводит результирующую матрицу на консоль и время выполнения.
